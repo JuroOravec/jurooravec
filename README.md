@@ -27,6 +27,8 @@ Since 2024, my open source goals are to:
 - Modernize web dev experience for Django
 - Speed up server-side Vue with Rust.
 
+I'm basically reimplementing Vue design (slots, composition, etc) in Python. If it can run in Python, it could be also ported to Go or Rust. And with that we could have something like Nuxt.js, where you would have Vue files, but they would contain extra `<server></server>` section, and this server section would run in Go/Rust.
+
 My projects (highlights):
 
 - [django-components](https://github.com/django-components/django-components) - Most powerful Vue-like frontend framework for Django
