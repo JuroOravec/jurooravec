@@ -31,7 +31,7 @@ I'm basically reimplementing Vue design (slots, composition, etc) in Python. If 
 
 My projects (highlights):
 
-- [django-components](https://github.com/django-components/django-components) - Most powerful Vue-like frontend framework for Django
+- [django-components](https://github.com/django-components/django-components) (Co-author) - Most powerful Vue-like frontend framework for Django
   - Planning to make it framework-agnostic in 2026.
 - [Alpinui](https://github.com/JuroOravec/alpinui) - Vuetify port for Python
 - [alpine-composition](https://github.com/JuroOravec/alpinui/tree/main/packages/alpine-composition) - Vue's Composition API in AlpineJS
