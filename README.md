@@ -2,22 +2,11 @@
 
 <!--
 **JuroOravec/jurooravec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
 
-Open source fam, ~7 yrs of web dev (Vue / React), language-agnostic (JS/TS, Python, Go, Rust). Been at [BenevolentAI](https://www.benevolent.com/), [Exponea](https://www.benevolent.com/), currently freelancing at [Dcode](https://dcode.co/) via [Toptal](https://www.toptal.com/).
+Open source fam, ~7 yrs of web dev (Vue / React), 1 yr of dev ops (Kubernetes), language-agnostic (JS/TS, Python, Go, Rust). Been at [BenevolentAI](https://www.benevolent.com/), [Exponea](https://www.benevolent.com/), currently freelancing at [Dcode](https://dcode.co/) via [Toptal](https://www.toptal.com/).
 
 <!-- Too smart to build dashboards. Too independent to work in FAANG. -->
 
@@ -43,6 +32,8 @@ Along the way I contribute to projects across the Python / Django web dev stack:
 - [airspeed-velocity](https://github.com/airspeed-velocity/asv) - Created workflow to benchmark code in CI. Also help with designs and reviews.
 - [selectolax](https://github.com/rushter/selectolax)
 
+Sponsor me at https://github.com/sponsors/JuroOravec
+
 I do consultations, mentoring, and corporate training for:
 - Teams that want to build high-performance, scalable web applications
 - Teams that want to launch open source projects
@@ -57,4 +48,3 @@ About me:
 - Love silly things like [DropoutTV](https://www.dropout.tv/), [Ferg](https://www.instagram.com/teabag.cartoon/) (cartoon), and you
 - Slovak-based 🇸🇰 produce
 - Pronounced [yuo·ro] like the currency €.
-
