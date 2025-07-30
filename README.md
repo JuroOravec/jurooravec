@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Open source fam, ~7 yrs of web dev (Vue / React), language-agnostic. Been at [BenevolentAI](https://www.benevolent.com/), [Exponea](https://www.benevolent.com/), currently freelancing at [Toptal](https://www.toptal.com/).
+Open source fam, ~7 yrs of web dev (Vue / React), language-agnostic (JS/TS, Python, Go, Rust). Been at [BenevolentAI](https://www.benevolent.com/), [Exponea](https://www.benevolent.com/), currently freelancing at [Dcode](https://dcode.co/) via [Toptal](https://www.toptal.com/).
 
 <!-- Too smart to build dashboards. Too independent to work in FAANG. -->
 
@@ -39,12 +39,22 @@ My projects (highlights):
 
 Along the way I contribute to projects across the Python / Django web dev stack:
 
+- [AlpineJS](https://github.com/alpinejs/alpine) - Improved performance by 30%
+- [airspeed-velocity](https://github.com/airspeed-velocity/asv) - Created workflow to benchmark code in CI. Also help with designs and reviews.
 - [selectolax](https://github.com/rushter/selectolax)
-- [airspeed-velocity](https://github.com/airspeed-velocity/asv)
-- [AlpineJS](https://github.com/alpinejs/alpine)
+
+I do consultations, mentoring, and corporate training for:
+- Teams that want to build high-performance, scalable web applications
+- Teams that want to launch open source projects
+- Teams that want to optimize their codebase for AI agents
+- Maintainers who want to up their game - automations, documentation, benchmarking, architecture, etc.
+- Programmers who want mastery through intense training and feedback
+
+Contact me on juraj [dot] oravec [dot] josefson [at] gmail [dot] com
 
 About me:
 
 - Love silly things like [DropoutTV](https://www.dropout.tv/), [Ferg](https://www.instagram.com/teabag.cartoon/) (cartoon), and you
 - Slovak-based 🇸🇰 produce
 - Pronounced [yuo·ro] like the currency €.
+
